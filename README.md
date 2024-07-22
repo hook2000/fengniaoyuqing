@@ -1,4 +1,5 @@
-# 蜂鸟舆情桌面版\蜂鸟舆情下载\fengniao
+# 蜂鸟舆情桌面版\蜂鸟舆情下载\fengniao舆情
+玩游戏、看视频、挂机领取任务，想怎么赚就怎么赚，支持macOS，Windows版本, 努力开发中, 敬请期待。
 下载客户端地址：https://www.yqndll.com/
 备用地址1：http://35.220.132.247:8080/
 备用地址2：https://gpwuxt64xh.feishu.cn/docx/GJNed82iOokGu8xsRDPcA33onDc
